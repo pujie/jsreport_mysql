@@ -1,4 +1,4 @@
-I wrote this based on Jan Blaha's jsreport and a Stack Overflow question number 6622746 answer by programaths. 
+I wrote this based on Jan Blaha's jsreport and a Stack Overflow question number 6622746 answered by programaths. 
 The script should meet the dependencies before run
 
 Ref:
